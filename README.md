@@ -1,4 +1,6 @@
-#### Hi, I'm Ryan Cathcart! I'm an aspiring full-stack web developer based in New Jersey. I'm driven to bring both functional and appealing apps to the web. The technologies I've been interested in lately are:
+### Hi, I'm Ryan Cathcart! I'm an aspiring full-stack web developer based in New Jersey. I'm driven to bring both functional and appealing apps to the web.
+
+#### The technologies I've been interested in lately are:
 - .NET / C# ecosystem
 - ASP.NET Web APIs
 - JavaScript & TypeScript
@@ -6,7 +8,7 @@
 - Material UI
 - PostgreSQL
 
-#### Technologies I'm looking forward to learn in the near future are:
+#### The technologies I'm looking forward to learn in the near future are:
 - .NET MAUI (Multi-Platform App UI)
 - ASP.NET Minimal Web APIs (New in .NET 6)
 - Vue or Svelte
