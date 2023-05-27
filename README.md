@@ -4,14 +4,10 @@
 - .NET / C# ecosystem
 - ASP.NET Web APIs
 - JavaScript & TypeScript
-- React
+- ReactJS
 - Material UI
 - PostgreSQL
-
-#### The technologies I'm looking forward to learning in the near future are:
-- .NET MAUI (Multi-Platform App UI)
-- ASP.NET Minimal Web APIs (New in .NET 6)
-- Vue or Svelte
+- .NET MAUI
 
 #### If you are interested in my skillset and would like to contact me, feel free to visit [my website](https://www.ryancathcart.dev/), and go to the contact section.
 
