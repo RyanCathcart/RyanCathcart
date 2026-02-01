@@ -1,6 +1,6 @@
 # 👨‍💻 Ryan Cathcart 🎸
 
-I'm an aspiring full-stack web developer based in New Jersey. I'm driven to bring both functional and appealing apps to the web.
+I'm an aspiring software developer based in New Jersey. I'm driven to bring both functional and appealing apps to the web.
 
 ---
 
@@ -24,8 +24,8 @@ I'm an aspiring full-stack web developer based in New Jersey. I'm driven to brin
 
 #### The technologies I've been interested in lately are:
 - ASP.NET Web APIs
-- Material UI
 - .NET MAUI
+- React
 
 #### If you are interested in my skillset and would like to contact me, feel free to visit [my website](https://www.ryancathcart.dev/), and go to the contact section.
 
